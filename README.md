@@ -1,0 +1,1 @@
+# sphynx-myst-static-web-site-excercise
